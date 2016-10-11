@@ -1,0 +1,16 @@
+{
+  "name": "week2assignment",
+  "version": "1.0.0",
+  "description": "week 2 assignment for coursera nodejs course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Leslie",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.6.3",
+    "mongoose-currency": "^0.2.0"
+  }
+}
